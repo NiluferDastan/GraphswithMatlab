@@ -2,10 +2,11 @@
 %a) Draw the graph of the function. (20p)
 %b) Optimize with the optimization function. (Take the limits as 0 and 40 for x) (15p)
 %c)Take the derivative and find the x value. (15p)
-%----------Write the Program Code Here-----------x=1:100;
+%----------Write the Program Code Here-----------
 
 %a)
 
+x=1:100;
 y=(30*x.^2-50*x+8);
 plot(x,y)
 
